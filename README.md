@@ -1,1 +1,1 @@
-# k_means_algorithm in python from scratch without using Kmeans library
+# k means algorithm in python from scratch without using sklearn Kmeans library
